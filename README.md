@@ -10,3 +10,8 @@ Chrome Extension will notify you if you get a new notification or message on twi
 1. Load unpacked extension... then select the cloned folder.
 
 1. enjoy twitter notification alert.
+
+
+## TODO
+
+- [ ] replace alert with sound.
